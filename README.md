@@ -42,4 +42,3 @@ npm start
 
 - 🌐 API Used: iTunes Search API
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/your-profile
