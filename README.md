@@ -28,3 +28,18 @@ cd Music-App
 npm install
 npm start
 ```
+- ⭐ Show Some Love
+- If you liked this project:
+
+- ⭐ Star this repo
+
+- 🍴 Fork it
+
+- 📣 Share it with others
+
+- 🙋‍♂️ Author & API Used
+- 👤 Author: Majid Ali
+
+- 🌐 API Used: iTunes Search API
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/your-profile
